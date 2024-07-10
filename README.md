@@ -7,7 +7,7 @@
 - 🌱 Actuellement, j'approfondis mes connaissances en **C** et **Python**.
 - 🎮 Je me forme en **LUA** pour développer des jeux.
 - 💻 J'adore coder pour le plaisir et explorer de nouvelles technologies.
-- 🎓 Étudiant à **EPITECH**, je m'efforce de devenir un développeur logiciel compétent et polyvalent.
+- 🎓 Étudiant à l'**EFREI**, je m'efforce de devenir un développeur logiciel compétent et polyvalent.
 
 ## Mes Projets
 
